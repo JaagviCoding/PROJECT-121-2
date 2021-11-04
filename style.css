@@ -1,0 +1,49 @@
+  p{
+   letter-spacing: 2px;
+    color: red;
+    font-size: 15px;
+  }
+  span(
+      letter-spacing:1px;
+  )
+  #moblienet{
+      letter-spacing: 2px;
+  }
+  .bottom{
+      color: red;
+      position: fixed;
+      bottom: o;
+      text-align: center;
+      width: 100%;
+      font-family: Roboto Slab',serif;
+  }
+  .img{
+      margin-top: 10px;
+      margin-bottom: 10px;
+      height: 300px;
+      border-radius: 10px;
+  }
+  b{
+      color: purple;
+  }
+  .first,.second{
+    background-color:white;
+    border-radius: 10px;
+    line-height: 2px;
+    margin-top: 15px;
+    background-color: rbg(155,153,153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width: 99%;
+    margin-bottom: 15px;  
+  }
+  span{
+      color:red;
+  }
+  .google_lens{
+   color: black;
+  }
+  h4{
+      color: white;
+      font-weight: bold;
+  }
